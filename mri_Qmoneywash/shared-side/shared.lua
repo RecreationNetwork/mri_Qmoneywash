@@ -1,0 +1,16 @@
+Config = {
+    MachineItem = 'washmachine',
+    MachineModel = 'bkr_prop_prtmachine_dryer_spin',
+    DirtyMoney = 'black_money',
+    BatteryItem = 'washbattery',
+    BleachItem = 'washbleach',
+    Account = 'cash',
+    BatteryDuration = 604800,
+    BleachDuration = 21600,
+    BleachPercentage = 0.01,
+    BaseEfficiency = 0.05,
+    Interval = 10,
+    MaxDeposit = 1000000,
+    MaxMachinesPerPlayer = 5,
+    InteractionDistance = 3.0,
+}
